@@ -53,9 +53,6 @@ Online-Quiz-System/
 
 ## 📸 Screenshots
 
-> *(Add screenshots to `img/screenshots/` and reference them here.)*
-
-### 🔐 Home Page
 ![Home](Docmentation & Diagrams/Home.png)
 
 
