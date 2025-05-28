@@ -53,7 +53,7 @@ Online-Quiz-System/
 
 ## 📸 Screenshots
 
-![Home](Docmentatio/Home.png)
+![home](Docmentatio/Home.png)
 
 
 
