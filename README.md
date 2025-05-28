@@ -51,13 +51,6 @@ Online-Quiz-System/
 5. **Run the application**
    - Visit: `http://localhost/Online-Quiz-System/`
 
-## 📸 Screenshots
-
-![Home](Documentation/Home.png)
-
-
-
-
 ## 🧪 Technologies Used
 
 - PHP
